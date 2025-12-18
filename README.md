@@ -10,13 +10,6 @@ This repository contains the code and datasets used in my PhD thesis on pitch-cl
 
 The research presented here develops analytical tools for studying harmonic content in music using mathematical approaches based on the Discrete Fourier Transform. The core methodology projects pitch-class sets onto a two-dimensional space (the Fourier Qualia Space) using RadViz visualisation, enabling the study of qualia progressions and their statistical properties.
 
-### Key Components
-
-- **Fourier Qualia Space (FQS)**: A 2D representation of pitch-class distributions based on DFT coefficient magnitudes
-- **Qualia Classification**: Harmonic quality labels assigned to regions of the FQS
-- **Corpus Analysis**: Tools for analysing the Yale Classical Archives Corpus (YCAC) and similar datasets
-- **Transition Analysis**: Markov chain analysis of harmonic progressions
-
 ## Repository Structure
 
 ```
@@ -129,7 +122,7 @@ For harmonic progression analysis:
 
 ### Coefficient Order Optimisation
 
-To find optimal DFT coefficient orderings for RadViz:
+Tests to find optimal DFT coefficient orderings for the FQS:
 
 ```bash
 # Maximum dispersion analysis
@@ -166,12 +159,6 @@ If you use this code or data in your research, please cite:
 
 See `CITATION.cff` for machine-readable citation information.
 
-## Acknowledgements
-
-- Emmanuel Amiot for foundational work on Fourier analysis in music theory
-- The Yale Classical Archives Corpus project
-- [Additional acknowledgements]
-
 ## Contact
 
-For questions or issues, please open a GitHub issue or contact up201709719@up.pt.
+For questions or issues, please contact up201709719@up.pt.
