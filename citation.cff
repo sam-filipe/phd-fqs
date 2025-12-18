@@ -1,0 +1,48 @@
+# CITATION.cff - Citation File Format
+# ====================================
+# This file makes the repository citable.
+# GitHub will display a "Cite this repository" option.
+# Zenodo uses this file to generate citation metadata.
+#
+# Update the placeholder values below before publishing.
+
+cff-version: 1.2.0
+title: "Fourier Qualia Space Analysis: PhD Thesis Code and Data"
+message: "If you use this software or data, please cite it as below."
+type: software
+authors:
+  - family-names: "[Family Name]"
+    given-names: "[Given Names]"
+    orcid: "https://orcid.org/[ORCID-ID]"
+    affiliation: "[University/Institution]"
+repository-code: "https://github.com/[username]/phd-thesis-repository"
+url: "https://github.com/[username]/phd-thesis-repository"
+abstract: >-
+  Code and datasets for the PhD thesis on pitch-class set analysis
+  using the Discrete Fourier Transform (DFT) and Fourier Qualia Space
+  (FQS) representation. Includes tools for analysing harmonic content
+  in music corpora, interactive visualisers, and statistical analysis
+  of harmonic progressions.
+keywords:
+  - music theory
+  - pitch-class sets
+  - discrete fourier transform
+  - music analysis
+  - computational musicology
+  - harmony
+  - post-tonal theory
+license: MIT
+version: "1.0.0"
+date-released: "[YYYY-MM-DD]"
+# Zenodo DOI will be added after first release
+# doi: 10.5281/zenodo.XXXXXXX
+references:
+  - type: thesis
+    authors:
+      - family-names: "[Family Name]"
+        given-names: "[Given Names]"
+    title: "[Thesis Title]"
+    year: "[Year]"
+    institution:
+      name: "[University]"
+    # doi: "[Thesis DOI if available]"
