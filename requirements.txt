@@ -1,0 +1,20 @@
+# Fourier Qualia Space Analysis - Python Dependencies
+# ====================================================
+# Install with: pip install -r requirements.txt
+
+# Core scientific computing
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.10.0
+
+# Visualisation
+matplotlib>=3.7.0
+
+# Progress bars for long-running operations
+tqdm>=4.65.0
+
+# Music theory library (for chord identification, interval vectors, etc.)
+music21>=9.1.0
+
+# Audio playback for fourier_coefficient_visualiser.py
+pygame>=2.5.0
