@@ -33,20 +33,20 @@ Detailed analysis of Ravel and Debussy's qualia sequences.
 
 | Filename | Description |
 |----------|-------------|
-| `conditional_matrix.csv` | Conditional transition probabilities between qualia |
-| `global_matrix.csv` | Raw transition counts between qualia pairs |
-| `reflets_segments.csv` | Segmentation data for *Reflets dans l'eau* |
-| `regression_data.csv` | Data for Zipf regression analysis |
-| `transition_counts.csv` | Frequency counts of each transition type |
+| `d_conditional_matrix.csv` | Conditional transition probabilities between qualia |
+| `d_global_matrix.csv` | Raw transition counts between qualia pairs |
+| `d_reflets_segments.csv` | Segmentation data for *Reflets dans l'eau* |
+| `d_regression_data.csv` | Data for Zipf regression analysis |
+| `d_transition_counts.csv` | Frequency counts of each transition type |
 
 ### Ravel Files
 
 | Filename | Description |
 |----------|-------------|
-| `conditional_matrix.csv` | Conditional transition probabilities between qualia |
-| `global_matrix.csv` | Raw transition counts between qualia pairs |
-| `regression_data.csv` | Data for Zipf regression analysis |
-| `transition_counts.csv` | Frequency counts of each transition type |
+| `r_conditional_matrix.csv` | Conditional transition probabilities between qualia |
+| `r_global_matrix.csv` | Raw transition counts between qualia pairs |
+| `r_regression_data.csv` | Data for Zipf regression analysis |
+| `r_transition_counts.csv` | Frequency counts of each transition type |
 
 ### Qualia Labels
 
