@@ -34,13 +34,11 @@ phd-thesis-repository/
     ├── README.md             # Code documentation
     │
     ├── coefficient_order_tests/       # DFT coefficient ordering optimisation
-    │   ├── __init__.py
     │   ├── dft_radviz_utils.py
     │   ├── radviz_distance_correlation_coefficient_order.py
     │   └── radviz_max_dispersion_coefficient_order.py
     │
     ├── qualia_progression_analysis/   # Harmonic progression analysis
-    │   ├── __init__.py
     │   ├── analysis.py
     │   ├── corpus.py
     │   ├── fourier_qualia_space.py
@@ -48,7 +46,6 @@ phd-thesis-repository/
     │   └── segmentation.py
     │
     ├── ycac_reader/                   # YCAC corpus utilities
-    │   ├── __init__.py
     │   ├── ycac_analysis_utils.py
     │   └── ycac_corpus_analyser.py
     │
