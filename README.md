@@ -146,11 +146,11 @@ If you use this code or data in your research, please cite:
 
 ```bibtex
 @phdthesis{author_year,
-  author = {[Author Name]},
+  author = {Pereira, Samuel},
   title  = {[Thesis Title]},
-  school = {[University]},
-  year   = {[Year]},
-  doi    = {[DOI from Zenodo]}
+  school = {University of Porto},
+  year   = {2026},
+  doi    = {https://doi.org/10.5281/zenodo.17988588}
 }
 ```
 
