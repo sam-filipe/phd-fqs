@@ -18,7 +18,6 @@ phd-thesis-repository/
 ├── README.md                 # This file
 ├── LICENSE                   # MIT licence for code
 ├── LICENSE-DATA              # CC-BY-4.0 licence for data
-├── CITATION.cff              # Citation information for Zenodo
 ├── requirements.txt          # Python dependencies
 ├── .gitignore                # Git ignore patterns
 │
@@ -153,8 +152,6 @@ If you use this code or data in your research, please cite:
   doi    = {https://doi.org/10.5281/zenodo.17988588}
 }
 ```
-
-See `CITATION.cff` for machine-readable citation information.
 
 ## Contact
 
