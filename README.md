@@ -19,7 +19,6 @@ phd-thesis-repository/
 ├── LICENSE                   # MIT licence for code
 ├── LICENSE-DATA              # CC-BY-4.0 licence for data
 ├── requirements.txt          # Python dependencies
-├── .gitignore                # Git ignore patterns
 │
 ├── data/                     # Datasets
 │   ├── README.md             # Data documentation
