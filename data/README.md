@@ -7,6 +7,7 @@ This directory contains the datasets used in the thesis analysis. All data is pr
 ```
 data/
 ├── chapter_6/                  # Diachronic corpus analysis data
+│   ├── transition_counts/      # Frequency tables for multiple composers
 ├── chapter_7/                  # Debussy and Ravel case studies
 │   ├── debussy/                # Debussy analysis results
 │   └── ravel/                  # Ravel analysis results
