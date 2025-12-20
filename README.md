@@ -23,10 +23,10 @@ phd-thesis-repository/
 ├── data/                         # Datasets
 │   ├── README.md                 # Data documentation
 │   ├── chapter_6/                # Chapter 6 analysis data
-│   │   ├── transition_counts/    # Frequency tables for several composers
+│   │   └── transition_counts/    # Frequency tables for several composers
 │   ├── chapter_7/                # Chapter 7 analysis data
 │   │   ├── debussy/              # Debussy-specific analyses
-│   │   └── ravel/                # Ravel-specific analyses
+│   │   ├── ravel/                # Ravel-specific analyses
 │   │   └── dendrograms/          # Dendrogram images of multiple composers
 │   └── ycac_additions/           # Additional YCAC composer slices
 │
