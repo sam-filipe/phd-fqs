@@ -10,7 +10,7 @@ data/
 │   ├── transition_counts/      # Frequency tables for multiple composers
 ├── chapter_7/                  # Debussy and Ravel case studies
 │   ├── debussy/                # Debussy analysis results
-│   └── ravel/                  # Ravel analysis results
+│   ├── ravel/                  # Ravel analysis results
 │   └── dendrograms/            # Dendrograms for several composers
 └── ycac_additions/             # Additional composer data for YCAC
 ```
