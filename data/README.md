@@ -10,6 +10,7 @@ data/
 │   ├── transition_counts/      # Frequency tables for multiple composers
 ├── chapter_7/                  # Debussy and Ravel case studies
 │   ├── debussy/                # Debussy analysis results
+│   └── dendrograms/            # Dendrograms for several composers
 │   └── ravel/                  # Ravel analysis results
 └── ycac_additions/             # Additional composer data for YCAC
 ```
@@ -82,6 +83,39 @@ Detailed analysis of Ravel and Debussy's qualia sequences.
 | `r_global_matrix.csv` | Raw transition counts between qualia pairs |
 | `r_regression_data.csv` | Data for Zipf regression analysis |
 | `r_transition_counts.csv` | Frequency counts of each transition type |
+
+### Dendrograms Files
+
+| Filename | Description |
+|----------|-------------|
+| `bach_dendrogram.png` | Bach's dendrogram |
+| `bartok_dendrogram.png` | Bartók's dendrogram |
+| `beethoven_dendrogram.png` | Beethoven's dendrogram |
+| `berlioz_dendrogram.png` | Berlioz's dendrogram |
+| `bizet_dendrogram.png` | Bizet's dendrogram |
+| `brahms_dendrogram.png` | Brahms's dendrogram |
+| `bruckner_dendrogram.png` | Bruckner's dendrogram |
+| `byrd_dendrogram.png` | Byrd's dendrogram |
+| `chopin_dendrogram.png` | Chopin's dendrogram |
+| `debussy_dendrogram.png` | Debussy's dendrogram |
+| `dvorak_dendrogram.png` | Dvořák's dendrogram |
+| `handel_dendrogram.png` | Handel's dendrogram |
+| `haydn_dendrogram.png` | Haydn's dendrogram |
+| `liszt_dendrogram.png` | Liszt's dendrogram |
+| `mahler_dendrogram.png` | Mahler's dendrogram |
+| `mendelssohn_dendrogram.png` | Mendelssohn's dendrogram |
+| `mozart_dendrogram.png` | Mozart's dendrogram |
+| `purcell_dendrogram.png` | Purcell's dendrogram |
+| `ravel_dendrogram.png` | Ravel's dendrogram |
+| `satie_dendrogram.png` | Satie's dendrogram |
+| `scarlatti_dendrogram.png` | Scarlatti's dendrogram |
+| `schubert_dendrogram.png` | Schubert's dendrogram |
+| `schumann_dendrogram.png` | Schumann's dendrogram |
+| `scriabin_dendrogram.png` | Scriabin's dendrogram |
+| `tchaikovsky_dendrogram.png` | Tchaikovsky's dendrogram |
+| `verdi_dendrogram.png` | Verdi's dendrogram |
+| `vivaldi_dendrogram.png` | Vivaldi's dendrogram |
+| `wagner_dendrogram.png` | Wagner's dendrogram |
 
 ### Qualia Labels
 
