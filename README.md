@@ -15,21 +15,22 @@ The research presented here develops analytical tools for studying harmonic cont
 ```
 phd-thesis-repository/
 │
-├── README.md                 # This file
-├── LICENSE                   # MIT licence for code
-├── LICENSE-DATA              # CC-BY-4.0 licence for data
-├── requirements.txt          # Python dependencies
+├── README.md                     # This file
+├── LICENSE                       # MIT licence for code
+├── LICENSE-DATA                  # CC-BY-4.0 licence for data
+├── requirements.txt              # Python dependencies
 │
-├── data/                     # Datasets
-│   ├── README.md             # Data documentation
-│   ├── chapter_6/            # Chapter 6 analysis data
-│   ├── chapter_7/            # Chapter 7 analysis data
-│   │   ├── debussy/          # Debussy-specific analyses
-│   │   └── ravel/            # Ravel-specific analyses
-│   └── ycac_additions/       # Additional YCAC composer slices
+├── data/                         # Datasets
+│   ├── README.md                 # Data documentation
+│   ├── chapter_6/                # Chapter 6 analysis data
+│   │   ├── transition_counts/    # Transition counts for several composers
+│   ├── chapter_7/                # Chapter 7 analysis data
+│   │   ├── debussy/              # Debussy-specific analyses
+│   │   └── ravel/                # Ravel-specific analyses
+│   └── ycac_additions/           # Additional YCAC composer slices
 │
-└── src/                      # Source code
-    ├── README.md             # Code documentation
+└── src/                          # Source code
+    ├── README.md                 # Code documentation
     │
     ├── coefficient_order_tests/       # DFT coefficient ordering optimisation
     │   ├── dft_radviz_utils.py
