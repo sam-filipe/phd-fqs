@@ -27,6 +27,7 @@ phd-thesis-repository/
 │   ├── chapter_7/                # Chapter 7 analysis data
 │   │   ├── debussy/              # Debussy-specific analyses
 │   │   └── ravel/                # Ravel-specific analyses
+│   │   └── dendrograms/          # Dendrogram images of multiple composers
 │   └── ycac_additions/           # Additional YCAC composer slices
 │
 └── src/                          # Source code
