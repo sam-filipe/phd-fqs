@@ -69,6 +69,7 @@ Detailed analysis of Ravel and Debussy's qualia sequences.
 
 | Filename | Description |
 |----------|-------------|
+| `d_complete_dataframe.csv` | All data produced by the algorithm |
 | `d_conditional_matrix.csv` | Conditional transition probabilities between qualia |
 | `d_global_matrix.csv` | Raw transition counts between qualia pairs |
 | `d_reflets_segments.csv` | Segmentation data for *Reflets dans l'eau* |
