@@ -26,6 +26,40 @@ Data from the diachronic analysis of the Yale Classical Archives Corpus.
 | `ambiguity_std_per_composer.csv` | Standard deviation of ambiguity measures grouped by composer |
 | `mean_cardinality_per_composer.csv` | Average pitch-class set cardinality by composer |
 
+### Transition Counts Files
+
+| Filename | Description |
+|----------|-------------|
+| `bach_transition_counts.csv` | Bach's frequency tables |
+| `bartok_transition_counts.csv` | Bartók's frequency tables |
+| `beethoven_transition_counts.csv` | Beethoven's frequency tables |
+| `berlioz_transition_counts.csv` | Berlioz's frequency tables |
+| `bizet_transition_counts.csv` | Bizet's frequency tables |
+| `brahms_transition_counts.csv` | Brahms's frequency tables |
+| `bruckner_transition_counts.csv` | Bruckner's frequency tables |
+| `byrd_transition_counts.csv` | Byrd's frequency tables |
+| `chopin_transition_counts.csv` | Chopin's frequency tables |
+| `debussy_transition_counts.csv` | Debussy's frequency tables |
+| `dvorak_transition_counts.csv` | Dvořák's frequency tables |
+| `handel_transition_counts.csv` | Handel's frequency tables |
+| `haydn_transition_counts.csv` | Haydn's frequency tables |
+| `liszt_transition_counts.csv` | Liszt's frequency tables |
+| `mahler_transition_counts.csv` | Mahler's frequency tables |
+| `mendelssohn_transition_counts.csv` | Mendelssohn's frequency tables |
+| `mozart_transition_counts.csv` | Mozart's frequency tables |
+| `purcell_transition_counts.csv` | Purcell's frequency tables |
+| `ravel_transition_counts.csv` | Ravel's frequency tables |
+| `satie_transition_counts.csv` | Satie's frequency tables |
+| `scarlatti_transition_counts.csv` | Scarlatti's frequency tables |
+| `schubert_transition_counts.csv` | Schubert's frequency tables |
+| `schumann_transition_counts.csv` | Schumann's frequency tables |
+| `scriabin_transition_counts.csv` | Scriabin's frequency tables |
+| `tchaikovsky_transition_counts.csv` | Tchaikovsky's frequency tables |
+| `verdi_transition_counts.csv` | Verdi's frequency tables |
+| `vivaldi_transition_counts.csv` | Vivaldi's frequency tables |
+| `wagner_transition_counts.csv` | Wagner's frequency tables |
+
+
 ## Chapter 7 Data
 
 Detailed analysis of Ravel and Debussy's qualia sequences.
