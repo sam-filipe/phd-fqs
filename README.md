@@ -1,4 +1,4 @@
-# Fourier Qualia Space Analysis: PhD Thesis Repository
+# Fourier Qualia Space: PhD Thesis Repository
 
 [![DOI](https://zenodo.org/badge/DOI/PLACEHOLDER.svg)](https://doi.org/PLACEHOLDER)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
